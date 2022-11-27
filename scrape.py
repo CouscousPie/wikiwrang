@@ -1,7 +1,4 @@
-import pandas as pd
-import requests
-import lxml
-from bs4 import BeautifulSoup
+def
 
 wikiurl = "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6ssten_Unternehmen_in_der_Schweiz"
 
